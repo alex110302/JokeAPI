@@ -1,0 +1,21 @@
+.background {
+    background-color: darkslategray;
+}
+
+.header {
+    max-height: 150px;
+    width: max-content;
+}
+
+#funny-button {
+    background-color: rgb(148, 148, 148);
+}
+
+#greating {
+    color: aliceblue;
+}
+
+#joke-start, #punchline-start, #funny, #funny-punchline {
+    color:aliceblue
+}
+
